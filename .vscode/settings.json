@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "epoll.h": "c",
+        "unistd.h": "c",
+        "eventfd.h": "c",
+        "mman.h": "c",
+        "types.h": "c",
+        "features.h": "c",
+        "stddef.h": "c",
+        "signalfd.h": "c",
+        "sigset_t.h": "c",
+        "__sigset_t.h": "c",
+        "signal.h": "c"
+    }
+}
